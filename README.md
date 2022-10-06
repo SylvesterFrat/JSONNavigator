@@ -19,4 +19,4 @@ Instructions:
 
 ### Playing The Game
 - Import the game files to your IntelliJ IDE
-- Navigate through src -> com -> java -> com.omstead -> JSONNavigator and run 'Main.java'
+- Navigate through src -> com -> java -> com -> omstead -> JSONNavigator and run 'Main.java'

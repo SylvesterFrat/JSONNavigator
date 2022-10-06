@@ -16,3 +16,7 @@ maximum + minimum + range of a students statistics, and finally printing a stast
 
 Instructions:
 - Follow the prompts in the console to navigate through the JSON data.
+
+### Playing The Game
+- Import the game files to your IntelliJ IDE
+- Navigate through src -> com -> java -> com.omstead -> JSONNavigator and run 'Main.java'

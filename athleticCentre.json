@@ -1,0 +1,15 @@
+{
+  "facilities": [
+    "gym",
+    "pool",
+    "weight room"
+  ],
+  "classes":[
+    "yoga",
+    "zumba"
+  ],
+  "instructors": [
+    "Thomas",
+    "Ellie"
+  ]
+}

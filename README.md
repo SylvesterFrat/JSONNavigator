@@ -3,7 +3,7 @@
 
 I made this project with a partner for a school project.
 
-### Video and Features
+### About
 
 
 
